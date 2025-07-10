@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p-1",
+    "name": "Laptop",
+    "description": "A high-performance laptop for all your needs.",
+    "price": 1200.0
+  },
+  {
+    "id": "p-2",
+    "name": "Smartphone",
+    "description": "A latest model smartphone with all the features.",
+    "price": 800.0
+  },
+  {
+    "id": "p-3",
+    "name": "Tablet",
+    "description": "A lightweight tablet for browsing and media consumption.",
+    "price": 600.0
+  },
+  {
+    "id": "p-4",
+    "name": "Smartwatch",
+    "description": "A stylish smartwatch to keep you connected.",
+    "price": 250.0
+  },
+  {
+    "id": "p-5",
+    "name": "Headphones",
+    "description": "Noise-cancelling headphones for immersive sound.",
+    "price": 150.0
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "user_123": [
+    {
+      "id": "p-1",
+      "quantity": 2
+    },
+    {
+      "id": "p-2",
+      "quantity": 1
+    },
+    {
+      "id": "p-3",
+      "quantity": 2
+    },
+    {
+      "id": "p-4",
+      "quantity": 1
+    }
+  ]
+}
